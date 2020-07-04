@@ -9,7 +9,7 @@ This reddit bot will automatically reply to user who doesn't have a flair
 
 ## Setup
 
-Replace line 1-8 to your own. Ask me in the comments if you have any question.
+Replace line 1-8 to your own. Ask me in the reddit comment if you have any question.
 
 
 ## Usage
