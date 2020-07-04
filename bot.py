@@ -53,7 +53,7 @@ class FlairBot:
         self.record_logs()
         
 if __name__ == '__main__':
-    bot = Bot()
+    bot = FlairBot()
     
     while True:
         try:
